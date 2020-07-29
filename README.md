@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 #### Aqui abaixo algumas informações que você pode se interessar
 
 ##### Link para o meu Linkedin: https://www.linkedin.com/in/rafael-pereira93/
-##### Link para o meu Site: https://rafael93.com/
+##### Link para o meu site: https://rafael93.com/
 ##### Email: rafaelpereira1993x@gmail.com
