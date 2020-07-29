@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Rafael Pereira. Desenvolvedor Front-end Jr. Atuei 1 ano construindo sites para uma agência de criação de sites em Curitiba, com as tecnologias HTML, CSS, JavaScript e PHP com Wordpress.
 
 <!--
 **RafaelPereira93/RafaelPereira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Aqui abaixo algumas informações que você pode se interessar
+
+##### Link para o meu Linkedin: https://www.linkedin.com/in/rafael-pereira93/
+##### Link para o meu Site: https://rafael93.com/
+##### Email: rafaelpereira1993x@gmail.com
