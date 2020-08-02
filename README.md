@@ -1,4 +1,4 @@
-### Olá, me chamo Rafael Pereira. Desenvolvedor Front-end Jr. Atuei 1 ano construindo sites para uma agência de criação de sites em Curitiba, com as tecnologias HTML, CSS, JavaScript e PHP com Wordpress.
+### Olá, me chamo Rafael Pereira. Sou desenvolvedor Front-end Jr. Atuei 1 ano construindo sites para uma agência de criação de sites em Curitiba, com as tecnologias HTML, CSS, JavaScript e PHP com Wordpress.
 
 <!--
 **RafaelPereira93/RafaelPereira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
