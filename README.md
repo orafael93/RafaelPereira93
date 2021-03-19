@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ##### :email: Email : rafaelpereira1993x@gmail.com
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira93&theme=dark)
 
   <a href="https://github.com/RafaelPereira93" target="_blank">
     <div style="display: inline_block"><br>
