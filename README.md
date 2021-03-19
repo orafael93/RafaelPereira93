@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelpereira93&layout=compact&langs_count=8&theme=dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira93)](https://github.com/rafaelpereira93/github-readme-stats)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
