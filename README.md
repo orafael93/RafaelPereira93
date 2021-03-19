@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ##### :email: Email : rafaelpereira1993x@gmail.com
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira93&hide=TeX&layout=compact)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelpereira93&layout=compact&langs_count=8&theme=dracula"/>
 
   <a href="https://github.com/RafaelPereira93" target="_blank">
     <div style="display: inline_block"><br>
