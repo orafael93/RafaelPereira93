@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Aqui abaixo algumas informações que você pode se interessar
-
-##### :link:  Linkedin : https://www.linkedin.com/in/rafael-pereira93/
-##### :link:  Website : https://rafael93.com/
-##### :email: Email : rafaelpereira1993x@gmail.com
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelpereira93&layout=compact&langs_count=8&theme=dark"/>
