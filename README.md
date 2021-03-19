@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelpereira93&layout=compact&langs_count=8&theme=dark"/>
 
-  <a href="https://github.com/RafaelPereira93" target="_blank">
-    <div style="display: inline_block"><br>
-      <img align="center" alt="rafaelpereira93-HTML" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="rafaelpereira93-CSS" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="rafaelpereira93-JS" width="40" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="rafaelpereira93-React" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    </div>
-  </a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
   <div style="display: inline_block"><br>
-    <a href = "mailto: rafaelpereira1993x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin: 0 20px"></a>
-    <a href="https://www.linkedin.com/in/rafael-pereira93/" style="margin: 0 10px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin: 0 20px"></a>
+    <a href = "mailto: rafaelpereira1993x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafael-pereira93/" style="margin: 0 10px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
