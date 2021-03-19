@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 ##### :email: Email : rafaelpereira1993x@gmail.com
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira93)](https://github.com/rafaelpereira93/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="rafaelpereira93-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="rafaelpereira93-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="rafaelpereira93-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="rafaelpereira93-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
