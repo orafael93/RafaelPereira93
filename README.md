@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a style="display: inline_block; margin-bottom: 20px" href="https://github.com/rafaelpereira93">
+<a style="display: inline_block; margin: 20px 0" href="https://github.com/rafaelpereira93">
   <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelpereira93&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
