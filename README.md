@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-#### Contato :zap:
+#### Contato:
 
 <div>
   <a href="https://www.linkedin.com/in/rafaelpereira93/" target="_blank">Linkedin</a>
-  <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">Email</a>
+  <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">Email :e-mail:</a>
 </div>
