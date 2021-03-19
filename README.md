@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 #### Contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/rafaelpereira93/" target="_blank">Linkedin</a>
+  <a href="https://www.linkedin.com/in/rafaelpereira93/" target="_blank">Linkedin :office:</a>
   <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">Email :e-mail:</a>
 </div>
