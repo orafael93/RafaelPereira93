@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ##### :link:  Website : https://rafael93.com/
 ##### :email: Email : rafaelpereira1993x@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpereira93&hide=TeX&layout=compact)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
