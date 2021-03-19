@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 ##### :link:  Website : https://rafael93.com/
 ##### :email: Email : rafaelpereira1993x@gmail.com
 
-<div>
-  ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
-</div>
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpereira93&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="rafaelpereira93-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
