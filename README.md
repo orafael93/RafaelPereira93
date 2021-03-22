@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### Contato:
-
 <div>
   <a href="https://www.linkedin.com/in/rafaelpereira93/" target="_blank">Linkedin</a>
   <a href="https://rafael93.com" target="_blank">Portfolio</a>
