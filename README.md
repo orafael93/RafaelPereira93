@@ -1,5 +1,5 @@
-### Olá ! Eu sou o Rafael Pereira.
-<p>Um apaixonado desenvolvedor Front-end autodidata.</p>
+### Olá ! Meu nome é Rafael Pereira.
+<p>Desenvolvedor Front-end desde 2018.</p>
 
 <!--
 **RafaelPereira93/RafaelPereira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
