@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="194em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelpereira93&layout=compact&langs_count=8&theme=dark" />
-
 #### Linguagens:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
