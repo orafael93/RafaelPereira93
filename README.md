@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 #### Contato:
 <div>
   <a href="https://www.linkedin.com/in/rafael93/" target="_blank">Linkedin</a>
