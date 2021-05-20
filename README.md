@@ -1,12 +1,12 @@
-<h1 align='center'>
+<h1>
   Olá 👋 Meu nome é Rafael Pereira 👨‍💻
 </h1>
 
-<h3 align='center'>
+<h3>
    Desenvolvedor Front-end ⚡
 </h3>
 
-<h4 align='center'>
+<h4>
    Curitiba - PR 🏠
 </h4>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center'>
+<div>
    <h3>Tecnologias</h3>
     <div style="display: flex;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 
- <div align='center'>
+ <div>
   <h3>Contato</h3>
   <div style="display: flex;">
     <a href="https://www.linkedin.com/in/rafael93/" target="_blank">
