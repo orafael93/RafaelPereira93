@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.linkedin.com/in/rafael93/" target="_blank">Linkedin</a>
-  <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">Email</a>
+  <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
