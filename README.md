@@ -1,5 +1,5 @@
 <h1>
-  Olá 👋 Meu nome é Rafael Pereira 👨‍💻
+  Olá 👋 Meu nome é Rafael Pereira
 </h1>
 
 <h3>
