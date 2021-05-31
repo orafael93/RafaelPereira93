@@ -1,6 +1,6 @@
-<h1>
+<h2>
   Olá 👋 Meu nome é Rafael Pereira
-</h1>
+</h2>
 
 <h3>
    Desenvolvedor Front-end ⚡
