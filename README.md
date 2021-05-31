@@ -6,10 +6,6 @@
    Desenvolvedor Front-end ⚡
 </h3>
 
-<h4>
-   Curitiba - PR 🏠
-</h4>
-
 <!--
 **RafaelPereira93/RafaelPereira93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
