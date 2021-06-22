@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <div>
    <h3>Tecnologias</h3>
     <div style="display: flex;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624379673/github-icons/html5_sfiwx6.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624380854/github-icons/css3_ak7hjk.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624381187/github-icons/javascript_f22jsd.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624381507/github-icons/react_pnq5t1.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624381972/github-icons/react_router_wvowqq.png" />
       <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
