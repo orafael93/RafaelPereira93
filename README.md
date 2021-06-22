@@ -27,7 +27,7 @@
 
 
  <div>
-  <h3>Contato</h3>
+  <h3>Onde me encontrar</h3>
   <div style="display: flex;">
     <a href="https://www.linkedin.com/in/rafael93/" target="_blank">
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384069/github-icons/linkedin_lladvn.png" />
@@ -37,6 +37,9 @@
     </a>
     <a href="https://rafael93.com" target="_blank">
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384737/github-icons/portfolio_sgfew2.png" />
+    </a>
+    <a href="https://codesandbox.io/u/rafael93" target="_blank">
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624389928/github-icons/codesandbox_hlnog8.png" />
     </a>
   </div>
 </div>
