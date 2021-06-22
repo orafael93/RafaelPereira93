@@ -49,5 +49,8 @@ Here are some ideas to get you started:
     <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384312/github-icons/gmail_ma4yif.png" />
     </a>
+    <a href="https://rafael93.com" target="_blank">
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384737/github-icons/portfolio_sgfew2.png" />
+    </a>
   </div>
 </div>
