@@ -16,6 +16,7 @@
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382080/github-icons/react_router_buhysz.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382316/github-icons/next_kv448o.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382552/github-icons/styled_components_dw1eex.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624385357/github-icons/sass_otx1md.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382781/github-icons/bootstrap_vsvpd9.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382998/github-icons/insomnia_ylqzgv.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383243/github-icons/visual_studio_code_x84pfm.png" />
