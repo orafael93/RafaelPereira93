@@ -20,8 +20,8 @@
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382781/github-icons/bootstrap_vsvpd9.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624385545/github-icons/insomnia_gwsh5l.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383243/github-icons/visual_studio_code_x84pfm.png" />
-      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383530/github-icons/git_wbtljo.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383770/github-icons/figma_sdmjmd.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383530/github-icons/git_wbtljo.png" />
     </div>
 </div>
 
