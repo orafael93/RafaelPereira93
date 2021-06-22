@@ -28,13 +28,14 @@ Here are some ideas to get you started:
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624380854/github-icons/css3_ak7hjk.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624381187/github-icons/javascript_f22jsd.png" />
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624381507/github-icons/react_pnq5t1.png" />
-      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624381972/github-icons/react_router_wvowqq.png" />
-      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382080/github-icons/react_router_buhysz.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382316/github-icons/next_kv448o.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382552/github-icons/styled_components_dw1eex.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382781/github-icons/bootstrap_vsvpd9.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624382998/github-icons/insomnia_ylqzgv.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383243/github-icons/visual_studio_code_x84pfm.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383530/github-icons/git_wbtljo.png" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624383770/github-icons/figma_sdmjmd.png" />
     </div>
 </div>
 
@@ -43,10 +44,10 @@ Here are some ideas to get you started:
   <h3>Contato</h3>
   <div style="display: flex;">
     <a href="https://www.linkedin.com/in/rafael93/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384069/github-icons/linkedin_lladvn.png" />
     </a>
     <a href="mailto:rafaelpereira1993x@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384312/github-icons/gmail_ma4yif.png" />
     </a>
   </div>
 </div>
