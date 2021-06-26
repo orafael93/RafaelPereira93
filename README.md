@@ -27,7 +27,7 @@
 
 
  <div>
-  <h3>Onde me encontrar</h3>
+  <h3>Onde você pode me encontrar</h3>
   <div style="display: flex;">
     <a href="https://www.linkedin.com/in/rafael93/">
       <img src="https://res.cloudinary.com/rafael1993x/image/upload/v1624384069/github-icons/linkedin_lladvn.png" />
