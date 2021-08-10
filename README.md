@@ -25,8 +25,6 @@
     </div>
 </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPereira93&layout=compact&theme=tokyonight)](https://github.com/RafaelPereira93/github-readme-stats)
-
 <div>
   <h3>Onde você pode me encontrar</h3>
   <div style="display: flex;">
